@@ -8,7 +8,7 @@ from requests.exceptions import ConnectionError
 from zipfile import ZipFile
 
 
-bot = telebot.TeleBot('6983243311:AAED0Or8i0YTXjlaa3B0i0hO6WYLgsf6nsM')
+bot = telebot.TeleBot('')
 admins = ['Hleb_Batonov', '@kibitkas']
 
 num_order = False
